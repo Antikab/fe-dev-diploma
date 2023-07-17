@@ -86,4 +86,4 @@
 ------------------------------------------------------------------------------------------------------------
 [GH-Pages](https://antikab.github.io/fe-dev-diploma/)
 
-[![Build status](https://ci.appveyor.com/api/projects/status/re347e8bqaw8n1wy?svg=true)](https://ci.appveyor.com/project/Antikab/fe-dev-diploma)
+[![Build status](https://ci.appveyor.com/api/projects/status/93fn97vhu57r3jn1/branch/main?svg=true)](https://ci.appveyor.com/project/Antikab/fe-dev-diploma/branch/main)
